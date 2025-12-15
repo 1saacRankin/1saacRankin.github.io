@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Student in Statistics, University of British Columbia
 
@@ -25,3 +25,10 @@ My research interests span **generative models**, **uncertainty quantification**
 Previously, I completed my MSc in Statistical Science at the University of Oxford, where I worked with Garrett Morris on conditional diffusion models for structure-based drug design. I earned my BSc in Mathematics and Statistics from the University of Victoria, working with Julie Zhou on statistical methodology.
 
 I am passionate about bridging the gap between statistical theory and practical applications in drug discovery, developing methods that are both theoretically rigorous and computationally tractable for real-world molecular systems.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
