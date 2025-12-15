@@ -4,21 +4,23 @@
 
 title: Isaac Rankin # the website title (if blank, full name will be used instead)
 first_name: Isaac
-middle_name: R.
+middle_name: EUC
 last_name: Rankin
 contact_note: >
   Feel free to reach out via email or connect with me on LinkedIn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website and portfolio for Isaac Rankin. Showcasing projects, research, and professional experience.
+  PhD student in Statistics at UBC focusing on Bayesian optimization, variational inference, 
+  and uncertainty quantification, with applications in drug discovery.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: isaac-rankin, portfolio, projects, research # add your own keywords or leave empty
+keywords: machine-learning, statistics, bayesian-optimization, drug-discovery, generative-models
+
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🚀 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-url: https://1saacRankin.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+icon: 💡 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+
+url: https://1saacrankin.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
