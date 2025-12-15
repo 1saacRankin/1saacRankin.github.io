@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://1saacRankin.github.io/sitemap.xml
+Sitemap: https://1saacrankin.github.io/sitemap.xml
