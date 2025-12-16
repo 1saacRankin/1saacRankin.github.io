@@ -13,11 +13,15 @@ nav_order: 2
 {% bibliography --query @*[type=journal] %}
 </div>
 
+<div style="margin-top: 3rem;"></div>
+
 <h2 class="category">Conference Papers</h2>
 
 <div class="publications">
 {% bibliography --query @*[type=conference] %}
 </div>
+
+<div style="margin-top: 3rem;"></div>
 
 <h2 class="category">Workshops</h2>
 
@@ -25,11 +29,15 @@ nav_order: 2
 {% bibliography --query @*[type=workshop] %}
 </div>
 
+<div style="margin-top: 3rem;"></div>
+
 <h2 class="category">Posters</h2>
 
 <div class="publications">
 {% bibliography --query @*[type=poster] %}
 </div>
+
+<div style="margin-top: 3rem;"></div>
 
 <h2 class="category">Preprints</h2>
 
