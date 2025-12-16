@@ -19,7 +19,7 @@ social: true
 
 I am a PhD student in Statistics at the University of British Columbia.
 
-I previously completed an MSc in Statistical Science at the University of Oxford. My dissertation, supervised by Garrett Morris, focused on conditional diffusion models for structure-based drug design. Before that, I earned a BSc in Mathematics and Statistics from the University of Victoria, where I worked with Julie Zhou on experimental design and robust estimators.
+I previously completed an MSc in Statistical Science at the University of Oxford. My dissertation, supervised by [Garrett Morris](https://www.stats.ox.ac.uk/people/garrett-morris), focused on conditional diffusion models for structure-based drug design. Before that, I earned a BSc in Mathematics and Statistics from the University of Victoria, where I worked with [Julie Zhou](https://www.uvic.ca/science/math-statistics/people/home/faculty/zhou_julie.php) on experimental design and robust estimators.
 
 My research interests include variational inference, Bayesian optimization, and uncertainty quantification. I am particularly interested in how these tools can be used for molecular modelling and structure-based drug design.
 
