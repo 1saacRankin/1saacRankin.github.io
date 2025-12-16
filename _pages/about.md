@@ -10,9 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>Department of Statistics</p>
-    <p>University of British Columbia</p>
-    <p>Vancouver, BC, Canada</p>
-    <p>PhD UBC, MSc Oxford, BSc UVic</p>
+    <p>University of British Columbia, Canada</p>
 
 news: false
 selected_papers: false
