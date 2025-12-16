@@ -12,6 +12,7 @@ profile:
     <p>Department of Statistics</p>
     <p>University of British Columbia</p>
     <p>Vancouver, BC, Canada</p>
+    <p>PhD UBC, MSc Oxford, BSc UVic</p>
 
 news: false
 selected_papers: false
