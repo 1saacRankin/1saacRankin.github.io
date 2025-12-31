@@ -139,13 +139,6 @@ newsletter:
   endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
   # https://loops.so/docs/forms/custom-form
 
-# -----------------------------------------------------------------------------
-# Social integration
-# -----------------------------------------------------------------------------
-
-github_username: 1saacRankin # your GitHub username
-
-
 
 # -----------------------------------------------------------------------------
 # GitHub Repositories
