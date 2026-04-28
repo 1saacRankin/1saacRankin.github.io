@@ -15,8 +15,7 @@
       "area": "Statistics",
       "studyType": "PhD",
       "startDate": "2025",
-      "endDate": "2029",
-      "summary": "Supervisor: Dr. Geoff Pleiss. Co-President of the Statistics Graduate Student Association (SGSA)."
+      "endDate": "2029"
     },
     {
       "institution": "University of Oxford",
@@ -25,11 +24,7 @@
       "area": "Statistical Sciences",
       "studyType": "MSc (Distinction)",
       "startDate": "2023",
-      "endDate": "2024",
-      "summary": "Dissertation on conditional diffusion models for structure-based drug design. Supervisor: Dr. Garrett M. Morris.",
-      "highlights": [
-        "Sports & Gym Officer, Green Templeton College. MSc cohort EDI Representative."
-      ]
+      "endDate": "2024"
     },
     {
       "institution": "University of Victoria",
@@ -38,12 +33,17 @@
       "area": "Mathematics and Statistics",
       "studyType": "BSc (Distinction)",
       "startDate": "2018",
-      "endDate": "2023",
-      "summary": "Overall average 97.52%, GPA 9.00/9.00. Supervisor: Dr. Julie Zhou."
+      "endDate": "2023"
     }
   ],
 
   "awards": [
+    {
+      "title": "NSERC CGRS D",
+      "date": "2026–2029",
+      "awarder": "Natural Sciences and Engineering Research Council of Canada",
+      "summary": "$120,000"
+    },
     {
       "title": "Four-Year Doctoral Fellowship",
       "date": "2025–2029",
