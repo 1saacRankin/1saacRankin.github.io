@@ -17,7 +17,7 @@ selected_papers: false
 social: true
 ---
 
-I am a PhD student in Statistics at the University of British Columbia, supervised by [Saifuddin Syed](https://www.saifsyed.com/) and [Charles Margossian](https://charlesm93.github.io/). 
+I am a PhD student in Statistics at the University of British Columbia. I am supervised by [Saifuddin Syed](https://www.saifsyed.com/) and [Charles Margossian](https://charlesm93.github.io/), and supported by an [NSERC](https://nserc-crsng.canada.ca/en) CGRS D scholarship. 
 
 
 My research interests include variational inference, Bayesian optimization, and enhanced sampling techniques. I am particularly interested in how these tools can be used for molecular modelling and structure-based drug design.
