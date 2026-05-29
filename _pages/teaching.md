@@ -8,6 +8,29 @@ nav_order: 6
 
 
 
+### Teaching Assistant  
+**STAT 302: Introduction to Probability**  
+*University of British Columbia — Vancouver, BC*  
+Summer 2026
+
+**Responsibilities**
+- Marked assignments and examinations
+- Invigilated examinations
+- Held weekly office hours to support student learning
+
+**Course Topics**
+- Basic notions of probability
+- Random variables
+- Expectations and conditional expectations
+- Discrete and continuous probability distributions
+- Limit theorems
+
+
+
+
+---
+
+
 
 
 ### Teaching Assistant  
@@ -35,6 +58,7 @@ Spring 2026
 
 
 
+
 ### Teaching Assistant  
 **STAT 251: Elementary Statistics**  
 *University of British Columbia — Vancouver, BC*  
@@ -55,3 +79,6 @@ Fall 2025
 - Hypothesis testing  
 - Linear regression  
 - Analysis of variance (ANOVA)
+
+
+
