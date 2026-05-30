@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: %PhD Student in Statistics, University of British Columbia
+subtitle:  
 
 profile:
   align: right
