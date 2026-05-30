@@ -30,9 +30,4 @@ Outside of research, depending on the season, I spend a lot of time riding my bi
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
